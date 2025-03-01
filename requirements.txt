@@ -1,0 +1,19 @@
+# Data Handling & Processing
+pandas
+numpy
+
+# Machine Learning & Regression Models
+scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Feature Engineering & Preprocessing
+scipy
+
+# Jupyter Notebook Support
+ipython
+jupyter
+
+
